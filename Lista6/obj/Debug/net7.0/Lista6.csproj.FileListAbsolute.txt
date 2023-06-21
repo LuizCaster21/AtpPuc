@@ -1,0 +1,15 @@
+C:\Users\Luizf\OneDrive\Documentos\projetos vs\Lista6\Lista6\obj\Debug\net7.0\Lista6.csproj.AssemblyReference.cache
+C:\Users\Luizf\OneDrive\Documentos\projetos vs\Lista6\Lista6\obj\Debug\net7.0\Lista6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luizf\OneDrive\Documentos\projetos vs\Lista6\Lista6\obj\Debug\net7.0\Lista6.AssemblyInfoInputs.cache
+C:\Users\Luizf\OneDrive\Documentos\projetos vs\Lista6\Lista6\obj\Debug\net7.0\Lista6.AssemblyInfo.cs
+C:\Users\Luizf\OneDrive\Documentos\projetos vs\Lista6\Lista6\obj\Debug\net7.0\Lista6.csproj.CoreCompileInputs.cache
+C:\Users\Luizf\OneDrive\Documentos\projetos vs\Lista6\Lista6\bin\Debug\net7.0\Lista6.exe
+C:\Users\Luizf\OneDrive\Documentos\projetos vs\Lista6\Lista6\bin\Debug\net7.0\Lista6.deps.json
+C:\Users\Luizf\OneDrive\Documentos\projetos vs\Lista6\Lista6\bin\Debug\net7.0\Lista6.runtimeconfig.json
+C:\Users\Luizf\OneDrive\Documentos\projetos vs\Lista6\Lista6\bin\Debug\net7.0\Lista6.dll
+C:\Users\Luizf\OneDrive\Documentos\projetos vs\Lista6\Lista6\bin\Debug\net7.0\Lista6.pdb
+C:\Users\Luizf\OneDrive\Documentos\projetos vs\Lista6\Lista6\obj\Debug\net7.0\Lista6.dll
+C:\Users\Luizf\OneDrive\Documentos\projetos vs\Lista6\Lista6\obj\Debug\net7.0\refint\Lista6.dll
+C:\Users\Luizf\OneDrive\Documentos\projetos vs\Lista6\Lista6\obj\Debug\net7.0\Lista6.pdb
+C:\Users\Luizf\OneDrive\Documentos\projetos vs\Lista6\Lista6\obj\Debug\net7.0\Lista6.genruntimeconfig.cache
+C:\Users\Luizf\OneDrive\Documentos\projetos vs\Lista6\Lista6\obj\Debug\net7.0\ref\Lista6.dll
